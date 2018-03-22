@@ -1,0 +1,6 @@
+---
+applications:
+- name: tracker-release-notes
+  buildpack: nodejs_buildpack
+  memory: 128M
+  disk_quota: 128M
